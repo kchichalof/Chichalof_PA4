@@ -1,0 +1,1 @@
+{Silver=2, Hill=1, Dirt=1, Desk=1, Range=2, Hand=3}
